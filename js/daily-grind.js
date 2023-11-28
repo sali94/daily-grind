@@ -1,4 +1,4 @@
-   //alert("can you see this?");
+//alert("can you see this?");
 
 /*
 
@@ -68,7 +68,7 @@ switch(myDay){
             alt: "a picture of a caramel",
             color: "white",
             day: "sunday",
-            desc: `Warm and sweet latte`
+            desc: `Sweet aroma latte with hints of caramel`
         };
     break;
 
@@ -80,7 +80,7 @@ switch(myDay){
             alt: "a picture of a drip",
             color: "black",
             day: "Monday",
-            desc: `Simple is always the best`
+            desc: `Classic Coffee Drip`
         };
         
     break;
@@ -117,7 +117,7 @@ switch(myDay){
             alt: "a picture of a cold brew",
             color: "purple",
             day: "Thursday",
-            desc: `Best way to start your morning`
+            desc: `Best Coffee to wake you up`
         };
     break;
 
@@ -129,7 +129,7 @@ switch(myDay){
             alt: "a picture of a frappaccino",
             color: "blue",
             day: "Friday",
-            desc: `Blended coffee`
+            desc: `Blended Frap`
         };
     break;
 
